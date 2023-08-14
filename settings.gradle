@@ -1,0 +1,3 @@
+rootProject.name = "PoiOfficeViewer"
+include ':app'
+include ':PoiOffice'
