@@ -1,1 +1,1 @@
-FileReaderLite
+PoiOfficeViewer
